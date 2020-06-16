@@ -1,0 +1,20 @@
+body {
+  background: #222;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  flex-direction: column;
+
+}
+.title {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 52px;
+  color: rgb(255, 145, 0);
+}
+.time {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 42px;
+  color: rgb(255, 251, 0);
+  margin-bottom: 30px;
+}
